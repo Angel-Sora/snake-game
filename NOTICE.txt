@@ -1,0 +1,8 @@
+snake-game — Классика с расширенной кастомизацией
+Copyright (C) 2026 Angel-Sora
+
+This program is distributed under the GNU General Public License v3.0.
+For the full license text, see the LICENSE file.
+
+This product includes software developed by third parties:
+- Pygame (LGPL) - https://www.pygame.org/
