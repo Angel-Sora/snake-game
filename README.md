@@ -45,3 +45,21 @@
   "hat": 2,
   "pattern": 1
 }
+```
+
+## 📝 Лицензия
+
+Этот проект распространяется под лицензией **GNU General Public License v3.0**.
+
+Подробнее см. в файле [LICENSE](LICENSE) или на сайте [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
+---
+
+## 🙏 Благодарности
+
+Проект использует библиотеку [Pygame](https://www.pygame.org/), которая распространяется под лицензией **GNU Lesser General Public License (LGPL)**.
+
+---
+
+**Автор:** Angel-Sora  
+**GitHub:** [https://github.com/Angel-Sora](https://github.com/Angel-Sora)
